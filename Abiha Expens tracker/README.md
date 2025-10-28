@@ -82,4 +82,4 @@ All transaction data is stored in JSON format in the `data` directory for easy b
 
 ## 👨‍💻 Author
 
-Created with ❤️ for Abiha
+Created with ❤️  Abiha
